@@ -1,6 +1,6 @@
 ## Ongwu Newmedia 主题说明
 
-### 示例demo ： https://windows.ongwu.cn
+### 示例demo ： https://ongwu.cn
 
 ###  主题简介
 
